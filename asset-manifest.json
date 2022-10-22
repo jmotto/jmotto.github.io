@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.833cf1fe.css",
-    "main.js": "/static/js/main.00926ae0.js",
-    "static/js/787.5d3b62c9.chunk.js": "/static/js/787.5d3b62c9.chunk.js",
-    "index.html": "/index.html",
-    "main.833cf1fe.css.map": "/static/css/main.833cf1fe.css.map",
-    "main.00926ae0.js.map": "/static/js/main.00926ae0.js.map",
-    "787.5d3b62c9.chunk.js.map": "/static/js/787.5d3b62c9.chunk.js.map"
+    "main.css": "/jmotto.github.io/static/css/main.833cf1fe.css",
+    "main.js": "/jmotto.github.io/static/js/main.8af6b17a.js",
+    "static/js/787.5d3b62c9.chunk.js": "/jmotto.github.io/static/js/787.5d3b62c9.chunk.js",
+    "index.html": "/jmotto.github.io/index.html",
+    "main.833cf1fe.css.map": "/jmotto.github.io/static/css/main.833cf1fe.css.map",
+    "main.8af6b17a.js.map": "/jmotto.github.io/static/js/main.8af6b17a.js.map",
+    "787.5d3b62c9.chunk.js.map": "/jmotto.github.io/static/js/787.5d3b62c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.833cf1fe.css",
-    "static/js/main.00926ae0.js"
+    "static/js/main.8af6b17a.js"
   ]
 }
